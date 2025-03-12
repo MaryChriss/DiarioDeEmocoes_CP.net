@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Y/CAONtx+p0VTLaeGTxE5+BqQbV+ySzzOlCf1RQDvlI=",
+  "Source": "DiarioEmocoes-webapi",
+  "BasePath": "_content/DiarioEmocoes-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
