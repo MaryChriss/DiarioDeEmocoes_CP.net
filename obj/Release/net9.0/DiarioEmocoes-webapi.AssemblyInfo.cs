@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiarioEmocoes-webapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403e70ec3f95d02d87165966a130031d74b50556")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a056b9b5e761177899a78873aff9bcc7f6ed566")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiarioEmocoes-webapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiarioEmocoes-webapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

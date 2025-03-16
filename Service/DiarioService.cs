@@ -1,27 +1,30 @@
-﻿namespace DiarioEmocoes_webapi.DiarioLib.obj
+﻿
+using DiarioEmocoes_webapi.Models;
+
+namespace DiarioEmocoes_webapi.Services
 {
-    public class Diario
+    public class DiarioService
     {
-        private List<RegistroEmocao> registros = new List<RegistroEmocao>();
+        private List<RegistroEmocao> _registros = new List<RegistroEmocao>();
 
         public void AdicionarRegistro(RegistroEmocao registro)
         {
-            registros.Add(registro);
-            Console.WriteLine(" Registro adicionado com sucesso! ");
+            _registros.Add(registro);
+            Console.WriteLine("Registro adicionado com sucesso!");
         }
 
         public void ListarRegistros()
         {
             Console.WriteLine("\n======= Seu Diário de Emoções =======\n");
-            if (registros.Count == 0)
+            if (_registros.Count == 0)
             {
                 Console.WriteLine("Nenhum registro encontrado.\n");
                 return;
             }
 
-            foreach (var registro in registros)
+            foreach (var registro in _registros)
             {
-                Console.WriteLine( registro.ToString());
+                Console.WriteLine(registro.ToString());
                 Console.WriteLine("----------------------------\n");
             }
         }

@@ -1,14 +1,18 @@
-﻿namespace DiarioEmocoes_webapi.DiarioLib.obj
+﻿namespace DiarioEmocoes_webapi.Models
 {
     public abstract class BaseEntity
     {
-        internal int Id { get; set; }
-
-        protected DateTime Data { get; set; }
+        protected int Id { get; set; }
+        public DateTime Data { get; protected set; }
 
         public BaseEntity()
         {
             Data = DateTime.Now;
+        }
+
+        protected void MostrarData()
+        {
+            Console.WriteLine($"Data: {Data}");
         }
 
         public override string ToString()

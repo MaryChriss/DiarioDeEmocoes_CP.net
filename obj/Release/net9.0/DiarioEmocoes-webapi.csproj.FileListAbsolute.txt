@@ -27,7 +27,4 @@ C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\obj\Release\net9.0\refint\Dia
 C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\obj\Release\net9.0\DiarioEmocoes-webapi.pdb
 C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\obj\Release\net9.0\DiarioEmocoes-webapi.genruntimeconfig.cache
 C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\obj\Release\net9.0\ref\DiarioEmocoes-webapi.dll
-C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\bin\Release\net9.0\DiarioConsole\obj\DiarioConsole.csproj.nuget.dgspec.json
-C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\bin\Release\net9.0\DiarioConsole\obj\project.assets.json
-C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\bin\Release\net9.0\DiarioLib\obj\DiarioLib.csproj.nuget.dgspec.json
-C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\bin\Release\net9.0\DiarioLib\obj\project.assets.json
+C:\Users\Mariana\source\repos\DiarioEmocoes-webapi\obj\Release\net9.0\DiarioEmocoes-webapi.sourcelink.json
